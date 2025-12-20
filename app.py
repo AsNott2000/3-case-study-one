@@ -8,7 +8,7 @@ kullanici_adi = os.getenv('KULLANICI', 'Dünya')
 
 @app.route('/')
 def hello():
-    return f"Merhabalaaar, {kullanici_adi}!"
+    return f"selamalr, {kullanici_adi}!"
 
 if __name__ == '__main__':
     # Uygulama 5000 portundan yayın yapacak
