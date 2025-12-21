@@ -1,0 +1,1 @@
+[![Docker CI Pipeline](https://github.com/AsNott2000/3-case-study-one/actions/workflows/main.yml/badge.svg)](https://github.com/AsNott2000/3-case-study-one/actions/workflows/main.yml)
